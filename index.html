@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" oncontextmenu="return false">
 
 <head>
     <meta charset="utf-8">
@@ -1221,10 +1221,25 @@
 
                             <script>
                                 function handleSubmit(e) {
+                                    function handleSubmit() {
+                                    swal({
+                                        title: "Please wait",
+                                        text: "I will contact you as soon as possible",
+                                        icon: "success",
+                                        button: "OK",
+                                    });
                                     setTimeout(() => {
-                                        e.target.reset();
-                                    }, 000);
-                                    alert('Thank you for contact')
+
+                                        document.getElementById('contact-name').value = null;
+                                        document.getElementById('contact-phone').value = null;
+                                        document.getElementById('contact-email').value = null;
+                                        document.getElementById('subject').value = null;
+                                        document.getElementById('contact-message').value = null;
+
+
+
+                                    }, 2000);
+                                }
 
                                 }
 
