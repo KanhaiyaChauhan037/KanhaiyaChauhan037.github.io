@@ -5,6 +5,22 @@
     
 }
 
+
+.thumbnail:hover{
+
+width: 100%;
+}
+
+#home{
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/04d53f80577741.5cf8b5c84827c.gif);
+}
+
+.thumbnail{
+   box-shadow: none !important;
+    background-color: transparent !important;
+}
+
+
 @media screen and (max-width: 270px) {
     .resp .calendar{
   
@@ -75,7 +91,7 @@
     --color-white: #ffffff;
     --color-white-75: rgba(255, 255, 255, 0.75);
     --color-success: #3EB75E;
-    --color-danger: #FF0003;
+    --color-danger: #ff0000;
     --color-warning: #FF8F3C;
     --color-info: #1BA2DB;
     --color-facebook: #3B5997;
