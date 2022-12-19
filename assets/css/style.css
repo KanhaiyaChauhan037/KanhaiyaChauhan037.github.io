@@ -5,6 +5,10 @@
     
 }
 
+.liskill a{
+    background-color: black;
+    }
+
 /* .instagram>a{
 width: 100%;
 border: 1px solid red;
@@ -75,11 +79,8 @@ width: 100%;
     --color-subtitle: #f9004d;
     --background-color-1: linear-gradient(145deg, #1e2024, #23272b);
     --background-color-2: #212428;
-    --shadow-1: 10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
-    --shadow-2: inset 21px 21px 19px #181a1d, inset -21px -21px 19px #202225;
-    --inner-shadow: 1px 4px 2px -3px rgba(0, 0, 0, 0.7) inset, -1px -3px 3px -2px rgba(255, 255, 255, 0.2) inset;
-    --shadow-white-3: 5px 5px 15px #D1D9E6, -5px -5px 15px #ffffff;
-    --gradient-box-w: linear-gradient(145deg, #e2e8ec, #ffffff);
+ 
+    /* --gradient-box-w: linear-gradient(145deg, #e2e8ec, #ffffff); */
     --gradient-red-hover: linear-gradient(145deg, #ff014f, #d11414);
     --color-heading: #ffffff;
     --color-heading-wv: #1e2125;
@@ -93,8 +94,8 @@ width: 100%;
     --color-border: #E6E6E6;
     --color-white: #ffffff;
     --color-white-75: rgba(255, 255, 255, 0.75);
-    --color-success: #3EB75E;
-    --color-danger: #ff0000;
+    --color-success: #90eea9;
+    --color-danger: #FF0003;
     --color-warning: #FF8F3C;
     --color-info: #1BA2DB;
     --color-facebook: #3B5997;
