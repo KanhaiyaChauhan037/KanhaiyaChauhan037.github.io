@@ -5,21 +5,55 @@
     
 }
 
+
+.resumeButton{
+  margin-left: 5rem;
+  margin-bottom: 10px;
+    border-radius: 0px 10px 0px 10px;
+    width: 20%;
+    height: 7vh;
+    background-color: rgb(253, 253, 253);
+
+font-weight: bold;
+font-size: 85%;
+color: black;
+
+   
+
+}
+.resumeButton>a{
+    color: black;
+}
+.resumeButton:hover{
+width: 20%;
+border-radius: 10px 0px 10px 0px;
+
+color: none;
+background-color: transparent;
+
+
+}
+
+.resumeButton>a:hover{
+    color: white;
+}
+.downb:hover{
+color: rgb(255, 255, 255);
+/* #ff014f */
+}
+
 .liskill a{
     background-color: black;
     }
 
-/* .instagram>a{
-width: 100%;
-border: 1px solid red;
-} */
 .thumbnail:hover{
 
 width: 100%;
 }
 
 #home{
-    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/04d53f80577741.5cf8b5c84827c.gif);
+    background-image: url(https://e0.pxfuel.com/wallpapers/683/265/desktop-wallpaper-best-about-white-on-black-white-pencil-dark-3d.jpg);
+    background-size: cover;
 }
 
 .thumbnail{
