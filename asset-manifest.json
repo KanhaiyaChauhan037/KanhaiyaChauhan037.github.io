@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.234abc49.css",
+    "main.js": "/static/js/main.a90da6fa.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Youtube front.png": "/static/media/Youtube front.a22804a8bdd355efc525.png",
+    "static/media/myglamm front page.png": "/static/media/myglamm front page.580022036ca20ed361a0.png",
+    "static/media/Kanhaiya-Chauhan-Resume.pdf": "/static/media/Kanhaiya-Chauhan-Resume.a8f34c551fde0ae7164c.pdf",
+    "static/media/mail.png": "/static/media/mail.5c10bee2701e8fbdf3f7.png",
+    "static/media/indeed front.png": "/static/media/indeed front.5612230f4490d8088bb1.png",
+    "static/media/kanhaiya-removebg-preview.jpg": "/static/media/kanhaiya-removebg-preview.ca9e84ff5cfe20292686.jpg",
+    "index.html": "/index.html",
+    "main.234abc49.css.map": "/static/css/main.234abc49.css.map",
+    "main.a90da6fa.js.map": "/static/js/main.a90da6fa.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.234abc49.css",
+    "static/js/main.a90da6fa.js"
+  ]
+}
